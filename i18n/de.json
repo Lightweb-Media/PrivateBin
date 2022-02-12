@@ -24,8 +24,8 @@
     "Paste was properly deleted.": "Text wurde erfolgreich gelöscht.",
     "JavaScript is required for %s to work. Sorry for the inconvenience.": "JavaScript ist eine Voraussetzung, um %s zu nutzen. Bitte entschuldige die Unannehmlichkeiten.",
     "%s requires a modern browser to work.": "%s setzt einen modernen Browser voraus, um funktionieren zu können.",
-    "New": "Neu",
-    "Send": "Senden",
+    "New": "Eingabe löschen",
+    "Send": "Nachricht erstellen",
     "Clone": "Klonen",
     "Raw text": "Reiner Text",
     "Expires": "Ablaufzeit",
@@ -77,7 +77,7 @@
         "%d years (3rd plural)"
     ],
     "Never": "Nie",
-    "Note: This is a test service: Data may be deleted anytime. Kittens will die if you abuse this service.": "Hinweis: Dies ist ein Versuchsdienst. Daten können jederzeit gelöscht werden. Kätzchen werden sterben, wenn du diesen Dienst missbrauchst.",
+    "Note: This is a test service: Data may be deleted anytime. Kittens will die if you abuse this service.": "Sende Nachrichten, die sich selbst zerstören, nachdem sie gelesen wurden.",
     "This document will expire in %d seconds.": [
         "Dieses Dokument läuft in einer Sekunde ab.",
         "Dieses Dokument läuft in %d Sekunden ab.",
